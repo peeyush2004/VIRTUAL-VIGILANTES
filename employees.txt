@@ -1,0 +1,2 @@
+FullTimeEmployee,Jon Snow,50000.0,Software Engineer
+PartTimeEmployee,Tyrion Lannister,50000.0,ui/ux
