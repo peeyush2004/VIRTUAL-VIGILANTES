@@ -61,7 +61,7 @@ A payroll system to manage and calculate monthly salaries for employees.
 
 ## 💻 Technologies Used
 
-- Java (JDK 8+)
+- Java (JDK 17 LTS version)
 - File I/O (`java.io`)
 - Console Input (`Scanner`)
 - Object-Oriented Programming (OOP)
